@@ -50179,7 +50179,7 @@ s.responseType="blob"
 A.agf(s,"load",new A.PV(s,a),!1)
 s.send()}}
 A.PU.prototype={
-$0(){this.a.Pw("test-file.txt","assets/test-file.txt")},
+$0(){this.a.Pw("app-release.apk","assets/app-release.apk")},
 $S:0}
 A.PV.prototype={
 $1(a){var s=(self.URL||self.webkitURL).createObjectURL(A.aho(this.a.response)),r=document.createElement("a")
